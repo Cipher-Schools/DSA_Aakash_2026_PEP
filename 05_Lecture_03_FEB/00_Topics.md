@@ -4,41 +4,41 @@
     - **Fixed Size Sliding Window**
     
     - **Variable Size Size Sliding Window**
-        - Template Fixed Size Sliding Window
-    ```cpp
-    int size = arr.size();
-    int i = 0;
-    int j = 0;
+        - Template variable Size Sliding Window
+        ```cpp
+        int size = arr.size();
+        int i = 0;
+        int j = 0;
 
-    while (j < size) {
+        while (j < size) {
 
-        // Include arr[j] into calculation / DS
+            // Include arr[j] into calculation / DS
 
-        if (window condition is still VALID) {
-            // Window can expand
-            // Example: sum < k, distinct <= k, no duplicate, etc.
-            j++;
-        } 
-        else if (window condition is EXACTLY what problem asks) {
-            // We found an eligible candidate
-            // Update answer here (min length / max length / count etc.)
+            if (window condition is still VALID) {
+                // Window can expand
+                // Example: sum < k, distinct <= k, no duplicate, etc.
+                j++;
+            } 
+            else if (window condition is EXACTLY what problem asks) {
+                // We found an eligible candidate
+                // Update answer here (min length / max length / count etc.)
 
-            j++;  // still try expanding for better answer (problem dependent)
-        } 
-        else if (window condition is INVALID / OVERFLOWED) {
-            // Window violated constraint → must shrink
+                j++;  // still try expanding for better answer (problem dependent)
+            } 
+            else if (window condition is INVALID / OVERFLOWED) {
+                // Window violated constraint → must shrink
 
-            while (window condition is INVALID) {
-                // Remove arr[i] from calculation / DS
-                i++;
+                while (window condition is INVALID) {
+                    // Remove arr[i] from calculation / DS
+                    i++;
+                }
+
+                // check once here also to hit the condition if needed
+
+                j++;  // After fixing window, expand again
             }
-
-            // check once here also to hit the condition if needed
-
-            j++;  // After fixing window, expand again
         }
-    }
-    ```
+        ```
 
 - ## 👉🏻 Prefix Sum
 
