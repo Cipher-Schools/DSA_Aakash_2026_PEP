@@ -1,5 +1,7 @@
 # Sliding Window Fixed ( K ) sized window
 
+## Class Problems
+
 - Maximum sum of subarray of size K
     - https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1
     ```cpp
@@ -122,8 +124,3 @@
 
 - Find All Anagrams in a String (return indecies array)
     - https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/1902942294/
-
-# Sliding Window : Variable Size
-
-
-## Practise
