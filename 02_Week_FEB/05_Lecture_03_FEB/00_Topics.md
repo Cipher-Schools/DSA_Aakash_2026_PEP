@@ -4,7 +4,7 @@
     - **Fixed Size Sliding Window**
     
     - **Variable Size Size Sliding Window**
-        - Template variable Size Sliding Window
+        - Template : variable Size Sliding Window
         ```cpp
         int size = arr.size();
         int i = 0;

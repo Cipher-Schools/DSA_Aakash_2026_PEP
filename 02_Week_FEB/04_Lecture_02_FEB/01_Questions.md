@@ -1,4 +1,4 @@
-# Sliding Window Fixed ( K ) sized window
+# Sliding Window : Fixed ( K ) sized window
 
 ## Class Problems
 

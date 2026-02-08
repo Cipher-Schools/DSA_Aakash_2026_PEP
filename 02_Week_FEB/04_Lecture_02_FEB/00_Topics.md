@@ -72,7 +72,7 @@
 
 - ## 👉🏻 Sliding Window
 
-    - **Template Fixed Size Sliding Window**
+    - **Template : Fixed Size Sliding Window**
     
     ```cpp
     // choose appropiate data structure according to the problem
