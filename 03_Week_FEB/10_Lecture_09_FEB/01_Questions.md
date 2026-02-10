@@ -10,11 +10,10 @@
 
 ## Practice :
 
-### 3. Matrix Boundary Traversal :Home
+### 3. Matrix Boundary Traversal
 - **Platform:** GeeksforGeeks  
 - **Link:** https://www.geeksforgeeks.org/problems/boundary-traversal-of-matrix-1587115620/0  
 
 ### 4. Spiral Matrix
 - **Platform:** LeetCode  
-- **Link:** https://leetcode.com/problems/spiral-matrix/description/  
-
+- **Link:** https://leetcode.com/problems/spiral-matrix/description/
