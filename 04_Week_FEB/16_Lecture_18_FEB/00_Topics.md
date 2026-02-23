@@ -284,7 +284,7 @@ void inorderIterative(Node* root){
                 curr = st.top();
                 st.pop();
                 cout << curr->data << " ";
-                curr = curr->next;
+                curr = curr->right;
             }
         }
     }
