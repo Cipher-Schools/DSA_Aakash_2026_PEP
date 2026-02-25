@@ -62,6 +62,16 @@
 **Platform:** GeeksforGeeks
 [https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 
+### 7. Reverse Nodes in K Group :: 🟡 YUG 🟡 Arpit Kumar
+
+**Platform:** LeetCode
+[https://leetcode.com/problems/reverse-nodes-in-k-group/](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+
+
+###  8. Largest Rectangle in Histogram :: 🟡 MANYA
+
+https://leetcode.com/problems/largest-rectangle-in-histogram/
+
 # CHOICE
 
 ### Inorder, Preorder and PostOrder ( ALL 3 ) Traversal of a Binary tree using Iteration : 
