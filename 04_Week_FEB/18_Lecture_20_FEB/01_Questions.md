@@ -25,17 +25,18 @@
 **Platform:** LeetCode
 **Link:** [https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 
+### 6. Boundary Traversal of Binary Tree
+
+**Platform:** GeeksforGeeks
+**Link:** [https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
+
+
 ## Practice Problems
 
 ### 6. Top View of Binary Tree
 
 **Platform:** GeeksforGeeks
 **Link:** [https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
-
-### 7. Boundary Traversal of Binary Tree
-
-**Platform:** GeeksforGeeks
-**Link:** [https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
 
 ### 8. Balanced Binary Tree
 

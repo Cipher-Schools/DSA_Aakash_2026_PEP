@@ -51,7 +51,7 @@
 
 ## Choice
 
-## Binary Tree inorder Traversal
+## Binary Tree inorder Traversal : Morris Traversal
 ```
 Implement a solution for which
 Time Complexity : O(n)
