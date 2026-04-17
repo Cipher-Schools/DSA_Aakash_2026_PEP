@@ -31,10 +31,10 @@ Make sure the following are completed before submission:
 
 ---
 
-### **GitHub Repository Must Include**
+### **GitHub Repository Must Include a Readme.md file which should have :**
 
 * Deployed project link (using Elastic IP)
-* EC2 instance screenshot (AWS Console)
+* EC2 instance screenshot (AWS Console) : your userName should be visible
 * Screenshot of login from **User 1**
 * Screenshot of login from **User 2**
 * Any challenges or issues faced during the assignment
