@@ -1,4 +1,4 @@
-# Assignment 01
+# Assignment 01 : AWS EC2 Static Website Hosting with IAM Access Control
 
 Hello Students,
 This is Aakash from Cipher Schools.
