@@ -1,7 +1,9 @@
+# Assignment 01
+
 Hello Students,
 This is Aakash from Cipher Schools.
 
-The project submission window is now live on cipher schools portal.
+The assignment submission window is now live on cipher schools portal.
 
 **Submit before: 19/04/2026, 08:00 AM (Strict)**,
 No late submissions will be accepted.
