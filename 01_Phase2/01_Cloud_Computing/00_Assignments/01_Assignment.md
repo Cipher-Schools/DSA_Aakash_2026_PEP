@@ -5,7 +5,7 @@ This is Aakash from Cipher Schools.
 
 The assignment submission window is now live on cipher schools portal.
 
-**Submit before: 19/04/2026, 08:00 AM (Strict)**,
+**Submit before: 19/04/2026, 06:00 PM (Strict)**,
 No late submissions will be accepted.
 
 ---
@@ -16,7 +16,7 @@ Make sure the following are completed before submission:
 
 * GitHub repository is **complete and public**
 * Deployed link is **working (via Elastic IP)**
-* EC2 instance and Elastic IP remain **active till 19/04/2026, 11:59 AM**
+* EC2 instance and Elastic IP remain **active till 19/04/2026, 11:59 PM**
 
 ---
 
