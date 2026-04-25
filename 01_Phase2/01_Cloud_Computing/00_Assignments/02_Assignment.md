@@ -94,5 +94,6 @@ Your **AWS username must be clearly visible**. If it’s not visible, it won’t
 
 * Your S3 website link must remain active till **27/04/2026, 11:59 PM**
 * Submission window is ~2.5 days
-  → Don’t deploy too early and burn AWS credits unnecessarily
-  → Don’t deploy too late and panic
+    - → Don’t deploy too early and burn AWS credits unnecessarily
+    - → Don’t deploy too late and panic
+* Assignment evaluation will begin only after 27 April, 06:00 PM. Please avoid requesting early or priority checking, as all submissions will be reviewed after the deadline.
