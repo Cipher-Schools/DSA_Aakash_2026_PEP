@@ -1,0 +1,10 @@
+1. How to create key pair using aws CLI?
+
+2. Create a security group with name "MySg99" with rule : port 22 from myIp and port 80 from anywhere.
+
+3. Launch anywhere Ec2 instacne with below details,
+Name : CLI_instance
+keyPair : Keypair_name
+Security Group : SGgroupName
+AMI : ami-091138d0f0d41ff90
+instance type : t3.micro
