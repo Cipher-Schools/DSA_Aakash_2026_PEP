@@ -1,0 +1,13 @@
+FROM ubuntu:latest
+
+ENV DEBIAN_FRONTEND=noninteractive
+
+RUN apt update && apt install apache2 -y
+
+WORKDIR /var/www/html
+
+ADD contApp.tar.gz /var/www/html
+
+CMD ["/usr/sbin/apache2ctl", "-D", "FOREGROUND"]
+
+EXPOSE 80
