@@ -43,6 +43,7 @@ vim Dockerfile
 5. Build the image for your application
 ```
 docker build -t <yourImgname> .
+```
 
 6. Check for your docker images
 ```
