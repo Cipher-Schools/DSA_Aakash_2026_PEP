@@ -6,7 +6,7 @@ Make sure the following are completed before submission:
 
 * GitHub repository is **complete and public**
 * Deployed link is **working (via Elastic IP)**
-* EC2 instance and Elastic IP remain **active till assignment evaluation complete.**
+* EC2 instance and Elastic IP remain **active untill assignment evaluation complete.**
 
 ---
 

@@ -6,7 +6,7 @@ Before submitting, make sure:
 
 * GitHub repository is **complete and public**
 * Static website is **properly deployed using S3**
-* S3 bucket remains **active till assignment evaluation complete.**
+* S3 bucket remains **active untill assignment evaluation complete.**
 * All screenshots clearly show your **AWS username**
 
 ---
