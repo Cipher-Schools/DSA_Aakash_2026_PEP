@@ -98,7 +98,3 @@ After the infrastructure is created, use **Ansible** to automatically configure 
 ## Expected Outcome
 
 At the end of this project, a complete three-tier AWS infrastructure should be provisioned using **Terraform**, while **Ansible** should automatically configure the web servers, install Nginx, deploy the application, and prepare the servers for database connectivity. The final solution should demonstrate an end-to-end DevOps workflow by combining Infrastructure as Code with Configuration Management to create a secure, scalable, and highly available cloud environment.
-
-## Project pipeline
-
-![02_Project](../images/VPC.png)
