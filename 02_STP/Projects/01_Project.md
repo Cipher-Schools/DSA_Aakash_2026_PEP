@@ -16,7 +16,7 @@ The solution should use **Amazon EventBridge** to trigger an **AWS Lambda** func
 
    * Read EC2 Security Groups
    * Upload reports to Amazon S3
-   * Send email notifications using Amazon SES (or another AWS-supported email service)
+   * Send email notifications using Amazon SNS (or another AWS-supported email service)
 
 3. Develop an **AWS Lambda function (Python)** that:
 
