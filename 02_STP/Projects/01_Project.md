@@ -49,6 +49,7 @@ The solution should use **Amazon EventBridge** to trigger an **AWS Lambda** func
   * Deployment and configuration steps
   * Compliance rules implemented
   * Sample compliance report
+  * Lambda Function Code file
   * Screenshots of:
 
     * EventBridge Rule

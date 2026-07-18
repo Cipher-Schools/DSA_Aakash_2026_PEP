@@ -74,8 +74,8 @@ After the infrastructure is created, use **Ansible** to automatically configure 
   * Terraform initialization and deployment steps
   * Ansible execution steps
   * Deployment verification steps
+  * Terraform files
   * Screenshots of:
-    * Terraform files
     * Terraform Apply Output
     * VPC
     * Subnets
